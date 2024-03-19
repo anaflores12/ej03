@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 Gustavo Rosas Nic
 =======
 gener hernan vallejos 
 >>>>>>> origin/gener
+=======
+Abraham Flores
+>>>>>>> origin/anaflores

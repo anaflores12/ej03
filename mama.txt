@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 Victoria Eugenia Ricalde Ordaz
 =======
 rebeca del carmen
 >>>>>>> origin/gener
+=======
+Magda Campos
+>>>>>>> origin/anaflores
