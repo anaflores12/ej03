@@ -1,9 +1,18 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+=======
+Magda Campos
+=======
+>>>>>>> 861440995465d2ce83c226eb05ab23db48b07507
+<<<<<<< HEAD
 Victoria Eugenia Ricalde Ordaz
 =======
 rebeca del carmen
 >>>>>>> origin/gener
+<<<<<<< HEAD
 =======
 Magda Campos
 >>>>>>> origin/anaflores
+=======
+>>>>>>> ae85dda191c87416dd7001fce2f239d56dd68ac4
+>>>>>>> 861440995465d2ce83c226eb05ab23db48b07507
