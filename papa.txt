@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Gustavo Rosas Nic
+=======
+gener hernan vallejos 
+>>>>>>> origin/gener
