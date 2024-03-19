@@ -1,1 +1,9 @@
+<<<<<<< HEAD
 Magda Campos
+=======
+<<<<<<< HEAD
+Victoria Eugenia Ricalde Ordaz
+=======
+rebeca del carmen
+>>>>>>> origin/gener
+>>>>>>> ae85dda191c87416dd7001fce2f239d56dd68ac4
